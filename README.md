@@ -1,14 +1,14 @@
 ![logo](https://github.com/IMMORTALCHIRU/IMMORTALCHIRU/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Chiranjeevi Chandrasekhar K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Master graduate from India</h3>
 <img align="right" alt="coding" width="550" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immortalchiru&label=Profile%20views&color=0e75b6&style=flat" alt="immortalchiru" /> </p>
 
-- 🌱 I’m currently learning **Full stack web development and UI/UX design**
+- 🌱 I’m currently learning **Data analytics**
 
-- 💬 Ask me about **Web based applications & UI/UX**
+- 💬 Ask me about **Python, Data analysis, **
 
 - 📫 How to reach me **chiru38038@gmail.com**
 
