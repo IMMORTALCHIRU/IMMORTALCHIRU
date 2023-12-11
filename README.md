@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data analytics**
 
-- 💬 Ask me about **Python, Data analysis, **
+- 💬 Ask me about **Python, Data analysis, HTML/CSS **
 
 - 📫 How to reach me **chiru38038@gmail.com**
 
